@@ -1,33 +1,27 @@
 Designers:
-	//TODO
-	
-	
-	
-	
+    //TODO
+
 Programming:	
-	For Beginning Programming:
-	http://www.homeandlearn.co.uk/java/java.html
+    For Beginning Programming:
+    http://www.homeandlearn.co.uk/java/java.html
 
-	Slick2D
-	A good start could be:
-	http://www.slick2d.org/wiki/index.php/Spiegel_tutorials/01_-_A_Basic_Slick_Game
+    Slick2D
+    A good start could be:
+    http://www.slick2d.org/wiki/index.php/Spiegel_tutorials/01_-_A_Basic_Slick_Game
 
-	There are also numerous other tutorials on the Slick Wiki
-	http://www.slick2d.org/wiki/index.php/Tutorials
+    There are also numerous other tutorials on the Slick Wiki
+    http://www.slick2d.org/wiki/index.php/Tutorials
 
-	I've also made some samples myself which are avaliable on GitHub
-	https://github.com/UoBGamesDev/Slick_Pong_Demo
-	https://github.com/UoBGamesDev/Pacman
-
-	
-	
-	
-	
+    I've also made some samples myself which are avaliable on GitHub
+    https://github.com/UoBGamesDev/Slick_Pong_Demo
+    https://github.com/UoBGamesDev/Pacman
 	
 Artists
 	Pixel Art Tutorial: http://www.photonstorm.com/archives/2291/16x16-pixel-art-tutorial
 
 	The Big List of Pixel Art Tutorials: http://www.pixelprospector.com/the-big-list-of-pixel-art-tutorials/
 
-
-this is a test edit
+Version control: [More relevant to programmers, but it's a nice skill to know]
+	
+    Git is my [Jack Wearden] favourite
+    http://git-scm.com/
