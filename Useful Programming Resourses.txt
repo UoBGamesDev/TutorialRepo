@@ -5,7 +5,7 @@ Programming:
     For Beginning Programming:
     http://www.homeandlearn.co.uk/java/java.html
 
-    Slick2D
+    Slick2D:
     A good start could be:
     http://www.slick2d.org/wiki/index.php/Spiegel_tutorials/01_-_A_Basic_Slick_Game
 
@@ -21,7 +21,8 @@ Artists
 
 	The Big List of Pixel Art Tutorials: http://www.pixelprospector.com/the-big-list-of-pixel-art-tutorials/
 
-Version control: [More relevant to programmers, but it's a nice skill to know]
-	
-    Git is my [Jack Wearden] favourite
-    http://git-scm.com/
+Version control:
+
+    GitHub for Windows is a really useful tool for working with the version control the society uses: http://windows.github.com/
+    
+    Advanced users might like to use Git directly on the command line: http://git-scm.com/ (It's Jack Wearden's favourite)
