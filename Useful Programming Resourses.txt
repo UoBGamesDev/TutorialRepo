@@ -16,10 +16,18 @@ Programming:
     https://github.com/UoBGamesDev/Slick_Pong_Demo
     https://github.com/UoBGamesDev/Pacman
 	
-Artists
+Artists:
 	Pixel Art Tutorial: http://www.photonstorm.com/archives/2291/16x16-pixel-art-tutorial
 
 	The Big List of Pixel Art Tutorials: http://www.pixelprospector.com/the-big-list-of-pixel-art-tutorials/
+
+Writers:
+	Extra Credits (a video series on game dev, well worth watching for everyone)
+	http://www.penny-arcade.com/patv/show/extra-credits
+		- http://www.penny-arcade.com/patv/episode/how-to-start-your-game-narrative
+		- http://www.penny-arcade.com/patv/episode/the-beast-macabre (relevant to horror games)
+		- http://www.penny-arcade.com/patv/episode/more-than-exposition
+		- http://www.penny-arcade.com/patv/episode/word-choice
 
 Version control:
 
