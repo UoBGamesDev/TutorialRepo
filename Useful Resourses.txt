@@ -1,33 +1,41 @@
 Designers:
-	//TODO
-	
-	
-	
-	
+    //TODO
+
 Programming:	
-	For Beginning Programming:
-	http://www.homeandlearn.co.uk/java/java.html
+    For Beginning Programming:
+    http://www.homeandlearn.co.uk/java/java.html
 
-	Slick2D
-	A good start could be:
-	http://www.slick2d.org/wiki/index.php/Spiegel_tutorials/01_-_A_Basic_Slick_Game
+    Slick2D:
+    A good start could be:
+    http://www.slick2d.org/wiki/index.php/Spiegel_tutorials/01_-_A_Basic_Slick_Game
 
-	There are also numerous other tutorials on the Slick Wiki
-	http://www.slick2d.org/wiki/index.php/Tutorials
+    There are also numerous other tutorials on the Slick Wiki
+    http://www.slick2d.org/wiki/index.php/Tutorials
 
 	I've also made some samples myself which are avaliable on GitHub (Warning they are very lazy/misleading in places but I can talk you through them)
 	https://github.com/UoBGamesDev/Slick_Pong_Demo
 	https://github.com/UoBGamesDev/Pacman
+	
+	
+	I also made a sample to demonstrate a Game Components arcitecture
+	https://github.com/UoBGamesDev/GameComponents_Architecture
 
 	
-	
-	
-	
-	
-Artists
+Artists:
 	Pixel Art Tutorial: http://www.photonstorm.com/archives/2291/16x16-pixel-art-tutorial
 
 	The Big List of Pixel Art Tutorials: http://www.pixelprospector.com/the-big-list-of-pixel-art-tutorials/
 
+Writers:
+	Extra Credits (a video series on game dev, well worth watching for everyone)
+	http://www.penny-arcade.com/patv/show/extra-credits
+		- http://www.penny-arcade.com/patv/episode/how-to-start-your-game-narrative
+		- http://www.penny-arcade.com/patv/episode/the-beast-macabre (relevant to horror games)
+		- http://www.penny-arcade.com/patv/episode/more-than-exposition
+		- http://www.penny-arcade.com/patv/episode/word-choice
 
-this is a test edit
+Version control:
+
+    GitHub for Windows is a really useful tool for working with the version control the society uses: http://windows.github.com/
+    
+    Advanced users might like to use Git directly on the command line: http://git-scm.com/ (It's Jack Wearden's favourite)
