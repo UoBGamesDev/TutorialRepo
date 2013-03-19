@@ -1,0 +1,25 @@
+JAM:
+New To Programming?
+http://inventwithpython.com/chapters/
+
+Learning Slick2D? 
+
+Tutorials 
+
+A good start could be:
+http://www.slick2d.org/wiki/index.php/Spiegel_tutorials/01_-_A_Basic_Slick_Game
+
+There are also numerous other tutorials on the Slick Wiki
+http://www.slick2d.org/wiki/index.php/Tutorials
+
+I've also made some samples myself which are avaliable on GitHub (Warning they are very lazy/misleading in places but I can talk you through them)
+https://github.com/UoBGamesDev/Slick_Pong_Demo
+https://github.com/UoBGamesDev/Pacman
+
+I made a sample to demonstrate a Game Components arcitecture
+https://github.com/UoBGamesDev/GameComponents_Architecture
+
+
+Possible Projects:
+There's a ton of ideas here:
+http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/

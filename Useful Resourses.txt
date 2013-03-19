@@ -15,7 +15,7 @@ Programming:
 	There are also numerous other tutorials on the Slick Wiki
 	http://www.slick2d.org/wiki/index.php/Tutorials
 
-	I've also made some samples myself which are avaliable on GitHub
+	I've also made some samples myself which are avaliable on GitHub (Warning they are very lazy/misleading in places but I can talk you through them)
 	https://github.com/UoBGamesDev/Slick_Pong_Demo
 	https://github.com/UoBGamesDev/Pacman
 
